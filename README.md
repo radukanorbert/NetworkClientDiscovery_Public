@@ -1,1 +1,1 @@
-Network Client Discovery - Support module
+# Network Client Discovery
