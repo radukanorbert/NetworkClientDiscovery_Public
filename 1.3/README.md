@@ -12,7 +12,7 @@ Release notes:
   - Login date
   - Installed program
   - OS name
-Audit log:
-- Display DN name
-- Log failed authentications
-- Show the IP address from which the authentication originated
+- Audit log:
+  - Display DN name
+  - Log failed authentications
+  - Show the IP address from which the authentication originated
